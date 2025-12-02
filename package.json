@@ -1,12 +1,10 @@
 {
-  "name": "@lorddzik/baileysme",
+  "name": "@Supunfernando16/pakada-balanne",
   "version": "4.2.0",
   "description": "WhatsApp Web API Library",
   "keywords": [
-    "LordDzik",
-    "pherine",
-    "kiuur",
-    "zeyanbail",
+    "supun",
+    "supun-md",
     "whatsapp",
     "whatsapp-api",
     "whatsapp-web",
@@ -14,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "t.me/lorddzik",
+  "homepage": "https://github.com/Supunfernando16/pakada-balanne",
   "repository": {
-    "url": "git@github.com:lorddzik/lorddzik"
+    "url": "git@github.com:Supunfernando16/pakada-balanne"
   },
   "license": "MIT",
-  "author": "wileys",
+  "author": "Supun Fernando",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
